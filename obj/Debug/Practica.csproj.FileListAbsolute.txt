@@ -1,0 +1,16 @@
+D:\C#\Practica\bin\Debug\Practica.exe.config
+D:\C#\Practica\bin\Debug\Practica.exe
+D:\C#\Practica\bin\Debug\Practica.pdb
+D:\C#\Practica\obj\Debug\Practica.csproj.AssemblyReference.cache
+D:\C#\Practica\obj\Debug\Practica.csproj.SuggestedBindingRedirects.cache
+D:\C#\Practica\obj\Debug\Practica.Properties.Resources.resources
+D:\C#\Practica\obj\Debug\Practica.csproj.GenerateResource.cache
+D:\C#\Practica\obj\Debug\Practica.csproj.CoreCompileInputs.cache
+D:\C#\Practica\obj\Debug\Practica.exe
+D:\C#\Practica\obj\Debug\Practica.pdb
+D:\C#\Practica\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+D:\C#\Practica\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+D:\C#\Practica\obj\Debug\Practica.csproj.CopyComplete
+D:\C#\Practica\obj\Debug\Practica.registerForm.resources
+D:\C#\Practica\obj\Debug\Practica.loginForm.resources
+D:\C#\Practica\obj\Debug\Practica.planForm.resources
